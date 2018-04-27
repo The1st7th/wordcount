@@ -14,7 +14,6 @@ namespace stringWordApp.Models
       _key = key;
     }
     public int count(){
-    
     _word = _word.ToLower();
     _word = Regex.Replace(_word,"[^A-Za-z0-9 _]","");
     _key = _key.ToLower();

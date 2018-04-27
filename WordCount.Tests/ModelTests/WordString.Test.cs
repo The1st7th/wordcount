@@ -11,7 +11,10 @@ namespace wordcount.Tests
     [TestMethod]
     public void testcount()
     {
-      
+      Wordstring test = new Wordstring ("hello hello hey", "hello");
+      int count = test.count();
+      int counter = 2;
+      Assert.AreEqual(counter, count);
     }
   }
 } 
