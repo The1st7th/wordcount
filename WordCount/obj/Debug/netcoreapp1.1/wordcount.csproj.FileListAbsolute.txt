@@ -1,0 +1,9 @@
+C:\Users\XonS\desktop\repeatcounter\WordCount\bin\Debug\netcoreapp1.1\wordcount.deps.json
+C:\Users\XonS\desktop\repeatcounter\WordCount\bin\Debug\netcoreapp1.1\wordcount.runtimeconfig.json
+C:\Users\XonS\desktop\repeatcounter\WordCount\bin\Debug\netcoreapp1.1\wordcount.runtimeconfig.dev.json
+C:\Users\XonS\desktop\repeatcounter\WordCount\obj\Debug\netcoreapp1.1\wordcount.csproj.CoreCompileInputs.cache
+C:\Users\XonS\desktop\repeatcounter\WordCount\obj\Debug\netcoreapp1.1\wordcount.AssemblyInfo.cs
+C:\Users\XonS\desktop\repeatcounter\WordCount\bin\Debug\netcoreapp1.1\wordcount.dll
+C:\Users\XonS\desktop\repeatcounter\WordCount\bin\Debug\netcoreapp1.1\wordcount.pdb
+C:\Users\XonS\desktop\repeatcounter\WordCount\obj\Debug\netcoreapp1.1\wordcount.dll
+C:\Users\XonS\desktop\repeatcounter\WordCount\obj\Debug\netcoreapp1.1\wordcount.pdb

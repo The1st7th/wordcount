@@ -1,0 +1,14 @@
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\wordcount.Tests.deps.json
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\wordcount.Tests.runtimeconfig.json
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\wordcount.Tests.runtimeconfig.dev.json
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\obj\Debug\netcoreapp1.1\wordcount.Tests.csproj.CoreCompileInputs.cache
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\obj\Debug\netcoreapp1.1\wordcount.Tests.AssemblyInfo.cs
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\wordcount.Tests.dll
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\wordcount.Tests.pdb
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\wordcount.dll
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\bin\Debug\netcoreapp1.1\wordcount.pdb
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\obj\Debug\netcoreapp1.1\wordcount.Tests.dll
+C:\Users\XonS\desktop\repeatcounter\WordCount.Tests\obj\Debug\netcoreapp1.1\wordcount.Tests.pdb

@@ -6,7 +6,5 @@ namespace word.Controllers
 {
     public class wordController : Controller
     {
-
-
     }
   }
